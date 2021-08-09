@@ -2,8 +2,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pasindu-mihiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pasindu-mihiran" height="30" width="40" /></a>
-<a href="https://kaggle.com/mihiran pasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mihiran pasindu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@mihiranp481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mihiranp481" height="30" width="40" /></a>
+<a href="https://kaggle.com/mihiranpasindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mihiranpasindu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mihiranp481" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mihiranp481" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
